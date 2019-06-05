@@ -4,7 +4,7 @@
 #
 Name     : inotify-tools
 Version  : 3.20.1
-Release  : 4
+Release  : 5
 URL      : https://github.com/rvoicilas/inotify-tools/archive/3.20.1.tar.gz
 Source0  : https://github.com/rvoicilas/inotify-tools/archive/3.20.1.tar.gz
 Summary  : No detailed summary available
