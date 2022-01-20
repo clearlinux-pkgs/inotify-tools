@@ -10,6 +10,7 @@ libinotifytools.so.0:inotifytools_dirpath_from_event
 libinotifytools.so.0:inotifytools_error
 libinotifytools.so.0:inotifytools_event_to_str
 libinotifytools.so.0:inotifytools_event_to_str_sep
+libinotifytools.so.0:inotifytools_filename_from_event
 libinotifytools.so.0:inotifytools_filename_from_watch
 libinotifytools.so.0:inotifytools_filename_from_wd
 libinotifytools.so.0:inotifytools_fprintf
